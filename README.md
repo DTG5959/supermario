@@ -14,7 +14,7 @@ For permission policy select Administrator Access (Just for learning purpose)
 
 #### Step 2. Cluster provision
 ```
-git clone https://github.com/NirmalNaveen20/supermario-k8s.git
+git clone https://github.com/DTG5959/supermario-k8s.git
 ```
 
 Change the directory
